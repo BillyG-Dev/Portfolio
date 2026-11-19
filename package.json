@@ -1,0 +1,23 @@
+{
+  "name": "billy-portfolio",
+  "version": "1.0.0",
+  "description": "Bill Yegon - Computer Scientist and Full Stack Web Developer Portfolio",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BillyG-Dev/Portfolio.git"
+  },
+  "keywords": [],
+  "author": "Bill Yegon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BillyG-Dev/Portfolio/issues"
+  },
+  "homepage": "https://github.com/BillyG-Dev/Portfolio#readme",
+  "dependencies": {
+    "@vercel/analytics": "^2.0.1"
+  }
+}
